@@ -1,0 +1,26 @@
+{
+  "name": "your-package-name",
+  "version": "1.0.0",
+  "description": "A brief description of your package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/your-repo.git"
+  },
+  "keywords": [
+    "your",
+    "keywords"
+  ],
+  "author": "Your Name <your-email@example.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/your-repo/issues"
+  },
+  "homepage": "https://github.com/yourusername/your-repo#readme",
+  "dependencies": {
+    "puppeteer": "^latest-version"
+  }
+}
